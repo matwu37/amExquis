@@ -1,0 +1,2 @@
+# only ignore the upload file in the current directory
+uploads/
